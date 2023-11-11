@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "yttest2", "http://localhost:59004", "{D43086F2-2E47-469C-81BE-91A352B6FC3E}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59004"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Documents\My Web Sites\yttest2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59004\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59004"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Documents\My Web Sites\yttest2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59004\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\Documents\My Web Sites\yttest2\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43086F2-2E47-469C-81BE-91A352B6FC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43086F2-2E47-469C-81BE-91A352B6FC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B278CD-8FF1-4838-BB09-5F257BADC687}
+	EndGlobalSection
+EndGlobal
